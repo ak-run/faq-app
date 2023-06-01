@@ -1,0 +1,28 @@
+[
+    {
+     "id": 1,
+     "question": "What?",
+     "answer": "Everything and nothing."
+    },
+    {
+     "id": 2,
+     "question": "Where",
+     "answer": "Here and there."
+    },
+    {
+     "id": 3,
+     "question": "Are you sure?",
+     "answer": "Yes and no."
+    },
+    {
+     "id": 4,
+     "question": "What is the weather like?",
+     "answer": "Sunny and rain."
+    },
+    {
+     "id": 5,
+     "question": "What's your favourite colour?",
+     "answer": "Green and blue."
+    }
+   ]
+   
