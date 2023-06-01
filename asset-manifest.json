@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/faq-app/static/css/main.073c9b0a.css",
+    "main.js": "/faq-app/static/js/main.6c1beaff.js",
+    "static/js/787.57986fdd.chunk.js": "/faq-app/static/js/787.57986fdd.chunk.js",
+    "static/media/logo.svg": "/faq-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/faq-app/index.html",
+    "main.073c9b0a.css.map": "/faq-app/static/css/main.073c9b0a.css.map",
+    "main.6c1beaff.js.map": "/faq-app/static/js/main.6c1beaff.js.map",
+    "787.57986fdd.chunk.js.map": "/faq-app/static/js/787.57986fdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6c1beaff.js"
+  ]
+}
