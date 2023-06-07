@@ -1,28 +1,53 @@
 [
     {
      "id": 1,
-     "question": "What?",
-     "answer": "Everything and nothing."
+     "question": "How long does it take for my pizza to be delivered?",
+     "answer": "Our average delivery time is approximately 30 minutes. However, during busy periods, it may take slightly longer. Rest assured, we're working hard to get your piping hot pizza to your doorstep as quickly as possible!"
     },
     {
      "id": 2,
-     "question": "Where",
-     "answer": "Here and there."
+     "question": "Can I customize my pizza toppings",
+     "answer": "Absolutely! Our website allows you to choose from a wide range of toppings to create your perfect pizza. Whether you're a fan of classic margherita or prefer adventurous combinations, we've got you covered."
     },
     {
      "id": 3,
-     "question": "Are you sure?",
-     "answer": "Yes and no."
+     "question": "What payment methods do you accept",
+     "answer": "We accept cash on delivery as well as online payments via major credit and debit cards. Just select your preferred payment option during checkout, and you're good to go!"
     },
     {
      "id": 4,
-     "question": "What is the weather like?",
-     "answer": "Sunny and rain."
+     "question": "Are there any discounts or special offers available?",
+     "answer": "We love treating our customers! Keep an eye out for our regular promotions, special deals, and discount codes. These can be found on our website, social media channels, or by subscribing to our newsletter."
     },
     {
      "id": 5,
-     "question": "What's your favourite colour?",
-     "answer": "Green and blue."
+     "question": "What if I have dietary restrictions or allergies?",
+     "answer": "We understand the importance of catering to different dietary needs. Our menu includes options for vegetarians, vegans, and customers with gluten or lactose intolerance. You can also mention any specific allergies or preferences in the order notes while placing your order."
+    },
+    {
+      "id": 6,
+      "question": "Can I track my delivery?",
+      "answer": "Absolutely! Once your order is confirmed, you'll receive a confirmation email with a tracking link. This allows you to monitor the progress of your delivery in real-time. No more guessing when your pizza will arrive!"
+    },
+    {
+      "id": 7,
+      "question": "Is there a minimum order requirement?",
+      "answer": "We have a minimum order requirement of £10 to ensure efficient delivery and quality service. However, keep an eye out for occasional promotions where we may waive this requirement!"
+    },
+    {
+      "id": 8,
+      "question": "Do you offer contactless delivery?",
+      "answer": "Yes, we do! In light of recent events, we offer contactless delivery options to ensure the safety of both our customers and delivery personnel. Simply mention your preference for contactless delivery in the order notes, and we'll accommodate your request."
+    },
+    {
+      "id": 9,
+      "question": "Do you deliver to my area?",
+      "answer": "We strive to provide our delicious pizzas to as many areas as possible. To check if we deliver to your location, simply enter your postcode on our website during the ordering process. If we're not currently serving your area, we apologize and hope to expand our coverage in the future."
+    },
+    {
+      "id": 10,
+      "question": "What if there's an issue with my order?",
+      "answer": "Customer satisfaction is our top priority. If there's any issue with your order, such as a missing item or a mistake in the order, please contact our customer support team immediately. We'll do everything we can to make it right and ensure you're satisfied with your pizza experience!"
     }
    ]
    

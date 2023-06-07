@@ -23,16 +23,16 @@ export const FaqQuestion = () => {
       {questions.map((question) => (
         <div key={question.id}>
           <h1
+            className={`Faq-question ${question.id === state.showText ? "active" : ""}`}
             onClick={() => {
               dispatch({ type: "toggleShowText", questionId: question.id });
-            }}
-            style={{
-              background: question.id === state.showText ? "blue" : "transparent",
             }}
           >
             {question.question}
           </h1>
-          {question.id === state.showText && <p>{question.answer}</p>}
+          <p className={`Faq-answer ${question.id === state.showText ? "show" : ""}`}>
+            {question.answer}
+          </p>
         </div>
       ))}
     </div>
